@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Coming Soon</title>
+  <!-- Google Font: VT323 -->
+  <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #fff7fc;
+    }
+    h1 {
+      color: #1c010b;
+      font-size: 36pt;
+      font-family: 'VT323', monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>Coming soon</h1>
+</body>
+</html>
